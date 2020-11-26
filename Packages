@@ -1,0 +1,15 @@
+Package: com.cryt0nic.LaunchCuts
+Name: LaunchCuts 1.4.2 Beta Archve
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Archive of the LaunchCuts 1.4.2 TestFlight beta.
+Maintainer: cryt0nic
+Author: cryt0nic
+Section: Tweaks
+Version: 1.4.2
+Tag: compatible_min::ios13.0
+Icon: https://github.com/cryt0nic/cryt0nic.github.io/raw/master/Images/PNG%20image.png
+Filename: debs/com.cryt0nic.LaunchCuts_1.4.2_iphoneos-arm.deb
+SHA256: 037f87c75bedd01714a8b67a3c3e3141bb8aa47c7654fe1b2053318b876bcf31
+MD5sum: 387cfbfa06675776c8cfec15a9926ea1
+Size: 2716880
