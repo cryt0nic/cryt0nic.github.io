@@ -1,0 +1,8 @@
+Origin: cryt0nic
+Label: cryt0nic
+Suite: stable
+Version: 1.0
+Codename: crytonic
+Architectures: iphoneos-arm
+Components: main
+Description: cryt0nic's Cydia Repo
